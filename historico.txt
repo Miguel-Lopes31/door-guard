@@ -1,0 +1,36 @@
+[2026-08-14 21:45:25] APP_INICIADO
+[2026-08-14 21:48:13] APP_INICIADO
+[2026-08-14 21:48:27] APP_INICIADO
+[2026-08-14 21:48:32] APP_INICIADO
+[2026-08-14 21:48:57] CONFIGURACAO_ALTERADA - confirm_open_seconds=0.4
+[2026-08-14 21:49:24] MONITORAMENTO_INICIADO - camera_index=0, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:49:47] APP_INICIADO
+[2026-08-14 21:50:04] MONITORAMENTO_INICIADO - camera_index=0, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:50:15] ERRO_CAMERA - Falha ao abrir a webcam
+[2026-08-14 21:50:20] MONITORAMENTO_INICIADO - camera_index=0, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:50:49] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=1, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:50:51] PORTA_FECHADA - tempo_aberta=2.1s
+[2026-08-14 21:50:53] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=2, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:50:54] PORTA_FECHADA - tempo_aberta=1.3s
+[2026-08-14 21:51:05] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=3, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:51:07] PORTA_FECHADA - tempo_aberta=1.6s
+[2026-08-14 21:51:09] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=4, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:51:12] PORTA_FECHADA - tempo_aberta=3.0s
+[2026-08-14 21:51:16] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=5, bloqueio_video=True, mudo_mic=False
+[2026-08-14 21:51:17] PORTA_FECHADA - tempo_aberta=1.2s
+[2026-08-14 22:01:49] APP_INICIADO
+[2026-08-14 22:02:26] MONITORAMENTO_INICIADO - camera_index=0, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:05:36] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=1, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:05:38] PORTA_FECHADA - tempo_aberta=1.6s
+[2026-08-14 22:05:40] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=2, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:05:42] PORTA_FECHADA - tempo_aberta=2.0s
+[2026-08-14 22:05:45] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=3, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:05:46] PORTA_FECHADA - tempo_aberta=1.6s
+[2026-08-14 22:05:48] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=4, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:05:50] PORTA_FECHADA - tempo_aberta=1.5s
+[2026-08-14 22:05:56] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=5, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:05:57] PORTA_FECHADA - tempo_aberta=0.7s
+[2026-08-14 22:05:59] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=6, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:06:14] PORTA_FECHADA - tempo_aberta=14.5s
+[2026-08-14 22:06:16] PORTA_ABERTA - confirmado_apos=0.4s, ocorrencia_num=7, bloqueio_video=True, mudo_mic=False
+[2026-08-14 22:06:23] PORTA_FECHADA - tempo_aberta=7.2s

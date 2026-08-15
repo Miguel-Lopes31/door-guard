@@ -1,0 +1,17 @@
+{
+  "camera_index": 0,
+  "threshold": 25,
+  "min_change_ratio": 0.15,
+  "confirm_open_seconds": 0.4,
+  "confirm_closed_seconds": 0.3,
+  "bg_update_rate": 0.02,
+  "target_fps": 30,
+  "video_block_enabled": true,
+  "mic_mute_enabled": false,
+  "roi": [
+    22,
+    4,
+    350,
+    689
+  ]
+}
