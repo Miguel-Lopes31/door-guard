@@ -68,4 +68,4 @@ Pelo menu **"2. Configurações"** dá pra ajustar sensibilidade de detecção, 
 
 ## Créditos
 
-Desenvolvido por [**Miguel Lopes**] (https://www.linkedin.com/in/miguel-lopes-analyst/)
+Desenvolvido por **[Miguel Lopes](https://www.linkedin.com/in/miguel-lopes-analyst/)**
